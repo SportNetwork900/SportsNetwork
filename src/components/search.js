@@ -41,6 +41,7 @@ class Search extends Component {
     )
   }
 
+  // get search results
   getSearchResults(query) {
     var index = window.__FLEXSEARCH__.en.index
     var store = window.__FLEXSEARCH__.en.store

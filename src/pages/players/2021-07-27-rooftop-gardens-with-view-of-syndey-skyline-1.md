@@ -4,7 +4,7 @@ title: Vertical garden wall at local park and café
 date: 2021-07-25T16:02:13.958Z
 featured: true
 featuredimage:
-  image: /img/pexels-photo-906073.webp
+  image: /img/sportsnetwork_pk_22.webp
   alt: Woman in front of building with green wall
 ---
 

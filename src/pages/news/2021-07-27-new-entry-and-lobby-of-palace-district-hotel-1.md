@@ -5,7 +5,7 @@ date: 2021-07-24T16:01:51.183Z
 featured: true
 featuredimage:
   alt: Modern building with green outdoor space
-  image: /img/pexels-photo-3628912.jpeg
+  image: /img/sportsnetwork_pk_23.jpeg
 location: Bern, Swizerland
 ---
 

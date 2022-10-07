@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: SportNetwork900/SportsNetwork
-  branch: master
+  branch: main
   base_url: https://auth.sportsnetwork.workers.dev
   auth_endpoint: /
 

@@ -5,7 +5,7 @@ date: 2021-07-24T16:01:51.183Z
 featured: true
 featuredimage:
   alt: Modern building with green outdoor space
-  image: /img/pexels-photo-7078119.jpeg
+  image: /img/sportsnetwork_pk_26.jpeg
 tags:
   - football
   - player

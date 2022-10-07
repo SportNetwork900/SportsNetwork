@@ -4,7 +4,7 @@ title: Vertical garden wall at local park and café
 date: 2021-07-25T16:02:13.958Z
 featured: true
 featuredimage:
-  image: /img/pexels-photo-598687.jpeg
+  image: /img/sportsnetwork_pk_21.jpeg
   alt: Woman in front of building with green wall
 location: Paris, France
 ---

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: codefighter20/SportsNetwork
+  repo: SportNetwork900/SportsNetwork
   branch: master
   base_url: https://auth.sportsnetwork.workers.dev
   auth_endpoint: /
